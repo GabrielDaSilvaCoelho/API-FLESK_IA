@@ -1,0 +1,5 @@
+﻿modelo_desempenho_bertimbau/
+.idea/
+*.pt
+*.bin
+*.safetensors
